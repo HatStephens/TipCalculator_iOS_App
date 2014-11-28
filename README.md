@@ -5,7 +5,7 @@ Tip Calculator - My First iOS App
 
 Have followed a tutorial (http://www.raywenderlich.com/74904/swift-tutorial-part-2-simple-ios-app) and produced a working iOS App. As of 28th November (9:30am), it works but there are issues with the view in the simulator. Elements are not appearing on the page as expected.
 
-![NAME_OF_IMAGE](http://ENTER_URL)
+![Screen Shot with Issue](https://raw.githubusercontent.com/HatStephens/TipCalculator_iOS_App/master/Screen%20Shot%202014-11-28%20at%2009.40.01.png)
 
 ## Technologies Used
 
